@@ -6,7 +6,7 @@ package repositorio;
 
 /**
  *
- * @author carol
+ * @author
  */
 public class Repositorio {
 
